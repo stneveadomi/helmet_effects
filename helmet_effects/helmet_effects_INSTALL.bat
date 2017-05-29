@@ -1,6 +1,6 @@
 @ECHO OFF
 color 0A
-if exist ..\..\..\..\maps\tags.dat (
+if exist ..\..\..\maps\tags.dat (
 	GOTO Label0
 ) else (
 	GOTO Label1
@@ -8,7 +8,7 @@ if exist ..\..\..\..\maps\tags.dat (
 
 :Label0
 ECHO Correct folder location. Installing...
-Type commands\helmet_effects.cmds | TagTool.exe ../../../../maps/tags.dat
+Type commands\helmet_effects.cmds | TagTool.exe ../../../maps/tags.dat
 
 CLS
 @ECHO INSTALLATION COMPLETE.
