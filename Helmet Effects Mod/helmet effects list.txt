@@ -1,0 +1,27 @@
+LIST OF ARMOR WITH EFFECTS
+Air Assault - NO EFFECT
+Stealth - Bubbles prt3_0xE0D
+Renegade - Electricity 0x3DC
+Nihard - Spiderwebs 0x1B1A
+Gladiator - Magnification 0xE27
+Mac - Bleeder 0x674
+Shark - Stars 0x147A
+Juggernaut - Tentacles 0x68E
+Dutch - SQUIGGLES 0xC21
+Chameleon - Brighter Flames 0x6E2
+Halberd - Ninja Fire
+Cyclops - Blue Flames 0x5EB
+Scanner - Green Flames 0x1DD4
+Mercenary - Dark Flames 0x6C7
+Hoplite - Pink Flames 0x2112
+Ballista - Neurons 0x600
+Strider - Eruption 0x1979
+Demo - Black Squares 0x135F
+Orbital - Holographic Flames 0x3DD
+Spectrum - Aquatics 0x446
+Gungnir - Halos 0x1339
+Hammerhead - Smoker 0x3ED
+Omni - Distortion Flames 0x1AA4
+Oracle - Distortion Rings 0xE0E
+Silverback - Giant Fire Beams 0x1375
+Widowmaker - Giant Plasma Beams 0x13A2
