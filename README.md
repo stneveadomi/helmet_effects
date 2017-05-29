@@ -1,14 +1,12 @@
 # helmet_effects
-=========================================
 HELMET EFFECTS VERSION 1.0 by AXX/IT1190
-=========================================
+========================================
 DESCRIPTION:
 This mod creates helmet effects for the game ElDewrito version 0.5+.
 To change a certain helmet effect, simply set your shoulder armor customization with the ElDorito Updater to the proper effect below.
 
 WARNING: 
-THIS MOD WILL MAKE YOU AND OTHERS VISIBLE UNDER ACTIVE CAMO.
-CURRENTLY THERE IS NO FIX FOR THIS ISSUE AND WAS ALSO AN ISSUE IN HALO 3
+This mod will make your character and others visible under active camo. Currently, there is no fix for this issue. Be fair.
 
 LIST OF SHOULDER ARMOR WITH EFFECTS:
 Air Assault - NO EFFECT
