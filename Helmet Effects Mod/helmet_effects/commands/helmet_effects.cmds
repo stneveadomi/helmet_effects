@@ -1,3 +1,4 @@
+SetLocale US
 echo HELMET EFFECTS MOD 1.0 by Axx/It1190
 echo thanks to dany5639 and Lord Zedd for tag tool and mod advice
 
@@ -13,6 +14,7 @@ exitto tags
 echo --------------PINK FLAME EFFECT FOR MONITOR -----------------
 duplicatetag 0xC12
 nametag * objects\Axx\effects\pink_flame_monitor
+savetagchanges
 
 edittag objects\Axx\effects\pink_flame_monitor.effe
 editblock locations 0
