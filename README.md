@@ -1,18 +1,18 @@
 # helmet_effects
-HELMET EFFECTS VERSION 1.0 by AXX/IT1190
+<b>Helmet Effects Version 1.0 by Axx / It1190</b>
 ========================================
 
-DESCRIPTION:
+<b>DESCRIPTION:</b>
 
 This mod creates helmet effects for the game ElDewrito version 0.5+.
 
 To change a certain helmet effect, simply set your shoulder armor customization with the ElDorito Updater to the proper effect below.
 
-WARNING: 
+<b>WARNING:</b> 
 
 This mod will make your character and others visible under active camo. Currently, there is no fix for this issue. Be fair.
 
-LIST OF SHOULDER ARMOR WITH EFFECTS:
+<b>LIST OF SHOULDER ARMOR WITH EFFECTS:</b>
 
 Air Assault - NO EFFECT
 
@@ -68,20 +68,20 @@ Widowmaker - Giant Plasma Beams
 
 This mod should be compatible with all other FMM mods.
 
-BUGS AND ERRORS:
+<b>BUGS AND ERRORS:</b>
 
 Any issues or conflicts can be resolved by messaging me on reddit at reddit.com/u/it1190
 
 Please include the logs within the helmet_effects\logs folder with your message.
 
-KNOWN ISSUES:
+<b>KNOWN ISSUES:</b>
 
 +In first person, some of the effects can be seen.
 
 +The Omni and Oracle effects do not always show up.
 
 
-CREDITS:
+<b>CREDITS:</b>
 
 Created by Axx/it1190 with help from dany5639 and Lord Zedd
 
