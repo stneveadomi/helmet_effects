@@ -9,9 +9,11 @@ editblock events 0
 editblock particlesystems 1
 setfield particle 0x3EC
 savetagchanges
-exitto 0xC12
+exit
+exit
 editblock locations 0
 setfield markername armor_effects
+savetagchanges
 exitto tags
 
 echo --------------PINK FLAME EFFECT FOR MONITOR -----------------
