@@ -9,7 +9,7 @@ editblock events 0
 editblock particlesystems 1
 setfield particle 0x3EC
 savetagchanges
-exit
+exitto 0xC12
 editblock locations 0
 setfield markername armor_effects
 exitto tags

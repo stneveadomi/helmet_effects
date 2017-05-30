@@ -10,7 +10,7 @@ Juggernaut - Tentacles 0x68E
 Dutch - SQUIGGLES 0xC21
 Chameleon - Brighter Flames 0x6E2
 Halberd - Ninja Fire
-Cyclops - Blue Flames 0x5EB
+*Cyclops - Blue Flames 0x5EB
 Scanner - Green Flames 0x1DD4
 Mercenary - Dark Flames 0x6C7
 Hoplite - Pink Flames 0x2112
