@@ -14,11 +14,12 @@ exitto tags
 echo --------------PINK FLAME EFFECT FOR MONITOR -----------------
 duplicatetag 0xC12
 nametag * objects\Axx\effects\pink_flame_monitor
-savetagchanges
+
 
 edittag objects\Axx\effects\pink_flame_monitor.effe
 editblock locations 0
 setfield Markername body
+savetagchanges
 exit
 
 editblock events 0
