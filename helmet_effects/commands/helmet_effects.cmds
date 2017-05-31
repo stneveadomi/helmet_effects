@@ -66,14 +66,14 @@ setfield particle 0x1B1A
 savetagchanges
 exitto tags
 
-echo --------------MAGNIFICATION EFFECT FOR MC -----------------
+echo --------------PINK_LINES EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\magnification
+nametag * objects\Axx\effects\pink_lines
 
-edittag objects\Axx\effects\magnification.effe
+edittag objects\Axx\effects\pink_lines.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0xE27
+setfield particle 0x2115
 savetagchanges
 exitto tags
 
@@ -122,14 +122,14 @@ setfield particle 0xC21
 savetagchanges
 exitto tags
 
-echo --------------BRIGHTER_FLAMES EFFECT FOR MC -----------------
+echo --------------GREEN_ELECTRIC EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\brighter_flames
+nametag * objects\Axx\effects\green_electric
 
-edittag objects\Axx\effects\brighter_flames.effe
+edittag objects\Axx\effects\green_electric.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x6E2
+setfield particle 0x2264
 savetagchanges
 exitto tags
 
@@ -141,6 +141,9 @@ edittag objects\Axx\effects\blue_flames.effe
 editblock events 0
 editblock particlesystems 0
 setfield particle 0x5EB
+exit
+editblock particlesystems 1
+setfield particle 0x2E7D
 savetagchanges
 exitto tags
 
@@ -151,7 +154,10 @@ nametag * objects\Axx\effects\green_flames
 edittag objects\Axx\effects\green_flames.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x1DD4
+setfield particle 0x21FA
+exit
+editblock particlesystems 1
+setfield particle 0x2211
 savetagchanges
 exitto tags
 
@@ -188,14 +194,14 @@ setfield particle 0x600
 savetagchanges
 exitto tags
 
-echo --------------ERUPTION EFFECT FOR MC -----------------
+echo --------------ARMAGEDDON EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\eruption
+nametag * objects\Axx\effects\armageddon
 
-edittag objects\Axx\effects\eruption.effe
+edittag objects\Axx\effects\armageddon.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x1979
+setfield particle 0x28FB
 savetagchanges
 exitto tags
 
@@ -240,6 +246,9 @@ edittag objects\Axx\effects\halos.effe
 editblock events 0
 editblock particlesystems 0
 setfield particle 0x1339
+exit
+editblock particlesystems 1
+setfield particle 0x2026
 savetagchanges
 exitto tags
 
@@ -254,14 +263,14 @@ setfield particle 0x3ED
 savetagchanges
 exitto tags
 
-echo --------------DISTORTION_FLAMES EFFECT FOR MC -----------------
+echo --------------EXCLAMATIONS EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\distortion_flames
+nametag * objects\Axx\effects\exclamations
 
-edittag objects\Axx\effects\distortion_flames.effe
+edittag objects\Axx\effects\exclamations.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x1AA4
+setfield particle 0x2115
 savetagchanges
 exitto tags
 
@@ -276,25 +285,25 @@ setfield particle 0xE0E
 savetagchanges
 exitto tags
 
-echo --------------GIANT_FIRE_BEAMS EFFECT FOR MC -----------------
+echo --------------CONFETTI EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\giant_fire_beams
+nametag * objects\Axx\effects\confetti
 
-edittag objects\Axx\effects\giant_fire_beams.effe
+edittag objects\Axx\effects\confetti.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x1375
+setfield particle 0x2953
 savetagchanges
 exitto tags
 
-echo --------------GIANT_PLASMA_BEAMS EFFECT FOR MC -----------------
+echo --------------PUKER EFFECT FOR MC -----------------
 duplicatetag 0xC12
-nametag * objects\Axx\effects\giant_plasma_beams
+nametag * objects\Axx\effects\puker
 
-edittag objects\Axx\effects\giant_plasma_beams.effe
+edittag objects\Axx\effects\puker.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x13A2
+setfield particle 0x684
 savetagchanges
 exitto tags
 
@@ -385,7 +394,7 @@ echo ------------------ GLADIATOR ARMOR SETUP ---------------------
 edittag 0x1534
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\magnification.effe
+setfield Attachment2 objects\Axx\effects\pink_lines.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
@@ -505,7 +514,7 @@ echo ------------------ CHAMELEON ARMOR SETUP ---------------------
 edittag 0x1539
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\brighter_flames.effe
+setfield Attachment2 objects\Axx\effects\green_electric.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
@@ -673,7 +682,7 @@ echo ------------------ STRIDER ARMOR SETUP ---------------------
 edittag 0x1540
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\eruption.effe
+setfield Attachment2 objects\Axx\effects\armageddon.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
@@ -817,7 +826,7 @@ echo ------------------ OMNI ARMOR SETUP ---------------------
 edittag 0x1546
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\distortion_flames.effe
+setfield Attachment2 objects\Axx\effects\exclamations.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
@@ -865,7 +874,7 @@ echo ------------------ SILVERBACK ARMOR SETUP ---------------------
 edittag 0x1548
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\giant_fire_beams.effe
+setfield Attachment2 objects\Axx\effects\confetti.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
@@ -889,7 +898,7 @@ echo ------------------ WIDOWMAKER ARMOR SETUP ---------------------
 edittag 0x1549
 AddBlockElements attachments 1
 editblock attachments *
-setfield Attachment2 objects\Axx\effects\giant_plasma_beams.effe
+setfield Attachment2 objects\Axx\effects\puker.effe
 setfield Marker armor_effects
 setfield PrimaryScale alive
 savetagchanges
