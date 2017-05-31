@@ -22,7 +22,7 @@ Renegade - Electricity
 
 Nihard - Spiderwebs
 
-Gladiator - Magnification
+Gladiator - Pink Lines
 
 Mac - Bleeder
 
@@ -32,7 +32,7 @@ Juggernaut - Tentacles
 
 Dutch - Squiggles
 
-Chameleon - Brighter Flames
+Chameleon - Green Electric
 
 Halberd - Ninja Fire (The original Bungie armor flames)
 
@@ -46,7 +46,7 @@ Hoplite - Pink Flames
 
 Ballista - Neurons
 
-Strider - Eruption
+Strider - Armageddon
 
 Demo - Black Squares
 
@@ -58,13 +58,13 @@ Gungnir - Halos
 
 Hammerhead - Smoker
 
-Omni - Distortion Flames
+Omni - Exclamations
 
 Oracle - Distortion Rings
 
-Silverback - Giant Fire Beams
+Silverback - Confetti
 
-Widowmaker - Giant Plasma Beams
+Widowmaker - Puker
 
 This mod should be compatible with all other FMM mods.
 
@@ -78,7 +78,7 @@ Please include the logs within the helmet_effects\logs folder with your message.
 
 +In first person, some of the effects can be seen.
 
-+The Omni and Oracle effects do not always show up.
++The Oracle effects do not always show up.
 
 
 <b>CREDITS:</b>
@@ -86,3 +86,7 @@ Please include the logs within the helmet_effects\logs folder with your message.
 Created by Axx/it1190 with help from dany5639 and Lord Zedd
 
 Special thanks to the developers of ElDewrito and the modding tools released by them.
+
+Thank you to all the testers, including ToonByte, TheDarkConduit(soular00t), and PulledTrigger.
+
+Thank you to ToonByte for the HQ images used for the logo and showing off the mod.

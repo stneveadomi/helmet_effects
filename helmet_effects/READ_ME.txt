@@ -12,30 +12,30 @@ CURRENTLY THERE IS NO FIX FOR THIS ISSUE AND WAS ALSO AN ISSUE IN HALO 3
 LIST OF SHOULDER ARMOR WITH EFFECTS:
 Air Assault - NO EFFECT
 Stealth - Bubbles
-Renegade - Electricity 
+Renegade - Electricity
 Nihard - Spiderwebs
-Gladiator - Magnification
+Gladiator - Pink Lines
 Mac - Bleeder
 Shark - Stars
 Juggernaut - Tentacles
 Dutch - Squiggles
-Chameleon - Brighter Flames
+Chameleon - Green Electric
 Halberd - Ninja Fire (The original Bungie armor flames)
 Cyclops - Blue Flames
 Scanner - Green Flames
 Mercenary - Dark Flames
 Hoplite - Pink Flames
 Ballista - Neurons
-Strider - Eruption
+Strider - Armageddon
 Demo - Black Squares
 Orbital - Holographic Flames
 Spectrum - Aquatics
 Gungnir - Halos
 Hammerhead - Smoker
-Omni - Distortion Flames
+Omni - Exclamations
 Oracle - Distortion Rings
-Silverback - Giant Fire Beams
-Widowmaker - Giant Plasma Beams
+Silverback - Confetti
+Widowmaker - Puker
 
 This mod should be compatible with all other FMM mods.
 
@@ -45,9 +45,11 @@ Please include the logs within the helmet_effects\logs folder with your message.
 
 KNOWN ISSUES:
 +In first person, some of the effects can be seen.
-+The Omni and Oracle effects do not always show up.
++The Oracle effects do not always show up.
 
 
 CREDITS:
 Created by Axx/it1190 with help from dany5639 and Lord Zedd
 Special thanks to the developers of ElDewrito and the modding tools released by them.
+Thank you to all the testers, including ToonByte, TheDarkConduit(soular00t), and PulledTrigger.
+Thank you to ToonByte for the HQ images used for the logo and showing off the mod.

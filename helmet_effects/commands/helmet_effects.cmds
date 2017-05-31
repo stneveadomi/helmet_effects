@@ -235,6 +235,9 @@ edittag objects\Axx\effects\aquatics.effe
 editblock events 0
 editblock particlesystems 0
 setfield particle 0x446
+exit
+editblock particlesystems 1
+setfield particle 0x2026
 savetagchanges
 exitto tags
 
@@ -246,9 +249,6 @@ edittag objects\Axx\effects\halos.effe
 editblock events 0
 editblock particlesystems 0
 setfield particle 0x1339
-exit
-editblock particlesystems 1
-setfield particle 0x2026
 savetagchanges
 exitto tags
 
@@ -270,7 +270,7 @@ nametag * objects\Axx\effects\exclamations
 edittag objects\Axx\effects\exclamations.effe
 editblock events 0
 editblock particlesystems 0
-setfield particle 0x2115
+setfield particle 0x28E9
 savetagchanges
 exitto tags
 
