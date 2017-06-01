@@ -12,6 +12,19 @@ This mod creates helmet effects for the game ElDewrito version 0.5+.
 
 To change a certain helmet effect, simply set your shoulder armor customization with the ElDorito Updater to the proper effect below.
 
+
+<b>INSTALLATION:</b>
+
+To install this mod, simply download and install through FMM or download from this Git and install using the INSTALL.bat file. 
+
+Make sure the mod is located in the mods/tagmods/ folder.
+
+<b>COMPATIBILITY:</b>
+
+This mod is compatible with most FMM mods including H3 armors. H3 Armors is compatible but is currently limited to the amount of effects 
+
+available. This will be fixed soonTM. In regards to priority, make sure this mod is higher priority than H3Armors.
+
 <b>WARNING:</b> 
 
 This mod will make your character and others visible under active camo. Currently, there is no fix for this issue. Be fair.
