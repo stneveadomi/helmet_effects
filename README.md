@@ -2,7 +2,7 @@
 <b>Helmet Effects Version 1.0 by Axx / It1190</b>
 ========================================
 
-<a href="http://imgur.com/dF2xKYw"><img src="http://i.imgur.com/dF2xKYwt.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/dF2xKYw"><img src="http://i.imgur.com/dF2xKYw.jpg" title="source: imgur.com" /></a>
 
 <b>DESCRIPTION:</b>
 
