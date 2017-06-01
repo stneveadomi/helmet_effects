@@ -4,6 +4,8 @@
 
 <a href="http://imgur.com/dF2xKYw"><img src="http://i.imgur.com/dF2xKYw.jpg" title="source: imgur.com" /></a>
 
+SHOUTOUT TO TOONBYTE, FOR ALL THE GREAT PHOTOS LIKE THE ONE ABOVE
+
 <b>DESCRIPTION:</b>
 
 This mod creates helmet effects for the game ElDewrito version 0.5+.
