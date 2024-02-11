@@ -1,5 +1,5 @@
 # helmet_effects
-<b>Helmet Effects Version 1.0 by Axx / It1190</b>
+<b>Helmet Effects Version 1.0</b>
 ========================================
 
 <a href="http://imgur.com/dF2xKYw"><img src="http://i.imgur.com/dF2xKYw.jpg" title="source: imgur.com" /></a>
